@@ -1,0 +1,17 @@
+body {
+    color: red;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(84, 77, 124);
+}
+
+h2 {
+    color: mediumorchid;
+}
+
+p {
+    color: blueviolet;
+    
+}
